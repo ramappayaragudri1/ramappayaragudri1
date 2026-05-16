@@ -1,131 +1,195 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Ramappa%20Yaragudri&fontSize=70&animation=fadeIn&fontAlignY=35&desc=B.E.%20Information%20Science%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Java+Developer;HTML+CSS+JavaScript+Developer;React.js+Enthusiast;Building+Interactive+Web+Apps;Open+to+Collaborations" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ramappa%20Yaragudri&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20ISE%20Student%20|%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;HTML+CSS+JavaScript+Expert;React.js+Frontend+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=ramappayaragudri1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
 ---
 
-# 👨‍💻 Ramappa Basappa Yaragudri
+# 💫 About Me
 
-<p align="left">
-📍 Mudhol, Bagalkot, Karnataka <br>
-📧 Email: <a href="mailto:rameshyaragudri101@gmail.com">rameshyaragudri101@gmail.com</a> <br>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/ramappa-yaragudri">ramappa-yaragudri</a> <br>
-🔗 GitHub: <a href="https://github.com/ramappayaragudri1">ramappayaragudri1</a>
-</p>
+👨‍💻 **Ramappa Basappa Yaragudri**  
+🎓 B.E. Information Science & Engineering Student  
+📍 Mudhol, Bagalkot, Karnataka  
+
+📧 **Email:** rameshyaragudri101@gmail.com  
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/ramappa-yaragudri
+
+🔗 **GitHub:**  
+https://github.com/ramappayaragudri1
 
 ---
 
-## 🎯 Career Objective
+# 🚀 Career Objective
 
-Results-driven B.E. Information Science and Engineering student with strong foundations in Java, SQL, and Web Development. Seeking an entry-level role in Software Development to apply technical knowledge and contribute to impactful and scalable projects.
+```js
+const ramappa = {
+    role: "Aspiring Software Developer",
+    skills: ["Java", "Python", "JavaScript", "React"],
+    passion: "Building Interactive and Scalable Applications",
+    learning: "Full Stack Development",
+    openToWork: true
+};
+```
+
+Results-driven Information Science student passionate about developing modern, responsive, and scalable software solutions using web technologies and programming skills.
 
 ---
 
-# 🛠 Skills
+# 🛠 Tech Stack
 
-## 💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
+## 👨‍💻 Languages
 
-## 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+---
 
-## 🗄 Database
+## 🌐 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 
-## ⚙️ Tools & Platforms
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+## ⚙ Backend & Database
 
-## 📚 Core Concepts
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" />
 
-- DSA
-- DBMS
-- OOPS
+---
+
+## 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/ramappayaragudri1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/ramappa-yaragudri">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:rameshyaragudri101@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 📚 Core Concepts
+
+```css
+Programming Fundamentals
+Object Oriented Programming
+Data Structures & Algorithms
+Database Management Systems
+Operating Systems
+Web Development
+```
 
 ---
 
 # 💼 Internship Experience
 
 ## 🌟 Web Development Intern — SkillCraft Technology
+
 📅 Aug 2025
 
-- Developed 4 frontend applications using HTML, CSS, and JavaScript
-- Improved UI responsiveness and user experience
-- Successfully completed projects independently within internship duration
+✔ Developed 4 frontend applications using HTML, CSS, and JavaScript  
+✔ Improved user experience with responsive UI design  
+✔ Completed projects independently within internship duration  
 
 ---
 
 # 🚀 Academic Projects
 
 ## 🎮 Flappy Bird Game
-📅 Sept 2025 – Nov 2025
 
-- Developed a real-time 2D game using Java Swing
-- Implemented physics-based movement and collision detection
-- Added difficulty modes and high-score storage using Java File I/O
+```java
+Features:
+✔ Physics-based bird movement
+✔ Collision detection
+✔ Difficulty modes
+✔ High-score storage using File I/O
+✔ Java Swing animations
+```
+
+📅 Sept 2025 – Nov 2025
 
 ---
 
 ## 📅 Event Management System
-📅 Sept 2025 – Nov 2025
 
-- Developed a full-stack event management platform using Node.js and Express
-- Implemented CRUD operations and conflict-free scheduling
-- Used SQLite for data storage with responsive frontend design
+```js
+Tech Stack:
+HTML + CSS + JavaScript
+Node.js + Express.js
+SQLite Database
+```
+
+✔ User Registration  
+✔ Event Scheduling  
+✔ CRUD Operations  
+✔ Responsive Frontend UI  
+
+📅 Sept 2025 – Nov 2025
 
 ---
 
 ## 👔 Men’s Fashion E-Commerce Platform
-📅 Apr 2025 – Jun 2025
 
-- Developed a responsive frontend e-commerce website
-- Features include authentication, cart management, and feedback system
-- Built using HTML5, CSS3, Bootstrap 5, and JavaScript
+```html
+Features Included:
+- User Authentication
+- Product Browsing
+- Shopping Cart
+- Feedback System
+- Responsive Design
+```
+
+📅 Apr 2025 – Jun 2025
 
 ---
 
 # 📜 Certifications
 
-🏅 Human Computer Interaction — NPTEL (Jan – Apr 2026)  
-🏅 Operating System Basics — Cisco (Mar 2025)
+🏅 Human Computer Interaction — NPTEL  
+🏅 Operating System Basics — Cisco  
 
 ---
 
 # 🏆 Achievements
 
-✅ Secured Rank 19,530 in Karnataka Common Entrance Test (KCET)
+🥇 Secured Rank **19,530** in KCET among lakhs of students.
 
 ---
 
 # 🤝 Extracurricular Activities
 
-- Participated in “International Democracy Day” project organized by NSS and YRCS, KLS GIT
-- Elected Member of ACM Club (2024–2027)
+✔ NSS & YRCS “International Democracy Day” Project  
+✔ ACM Club Member (2024–2027)
 
 ---
 
-# 🌐 Languages
+# 🌐 Languages Known
 
 🗣 Kannada  
 🗣 English
@@ -134,29 +198,65 @@ Results-driven B.E. Information Science and Engineering student with strong foun
 
 # 🎯 Interests
 
-📚 Learning New Technologies  
-📖 Reading Books  
 🏏 Cricket  
-♟ Chess
+♟ Chess  
+📚 Reading Books  
+💻 Learning New Technologies
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramappayaragudri1&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramappayaragudri1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramappayaragudri1&theme=tokyonight" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramappayaragudri1&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramappayaragudri1&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramappayaragudri1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# ⚡ Fun JavaScript Section
+
+```javascript
+while(!success) {
+    practice();
+    learn();
+    buildProjects();
+    repeat();
+}
+```
+
+---
+
+# 🎨 HTML + CSS Lover
+
+```html
+<div class="developer">
+   <h1>Passionate Developer 🚀</h1>
+   <p>Creating responsive and interactive web apps.</p>
+</div>
+```
+
+```css
+.developer{
+   color:white;
+   background:linear-gradient(to right,#0f2027,#203a43,#2c5364);
+   padding:20px;
+   border-radius:15px;
+   text-align:center;
+}
+```
+
+---
+
 <div align="center">
 
-### 🚀 “Code • Learn • Build • Grow”
+## 🚀 “Code • Create • Innovate • Repeat”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F7FF&height=120&section=footer"/>
 
 </div>
