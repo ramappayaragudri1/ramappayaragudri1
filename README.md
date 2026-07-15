@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 👨‍💻 **Ramappa Basappa Yaragudri**  
 🎓 B.E. Information Science & Engineering Student  
@@ -27,7 +27,7 @@ https://www.linkedin.com/in/ramappa-yaragudri
 https://github.com/ramappayaragudri1
 
 🔗 **Portfolio Website:**  
-🔗My portfololio website
+https://ramappayaragudri1.github.io/Portfolio_Website/
 ---
 
 # 🚀 Career Objective
